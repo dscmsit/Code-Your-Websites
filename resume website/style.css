@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+.nav{
+    padding: 3px;;
+    background-color: rgb(195, 179, 179);
+}
+.nav_h{
+    font-size: 2rem;
+    margin-left: 1rem;
+}
+.photo{
+    width:95%;
+}
+.heading{
+
+    text-align: center;
+}
+.ph_div{
+
+    margin-left: 9rem;
+    width: 30%;;
+
+    display: inline-block;
+}
+.link_div{
+    position: absolute;
+    margin-left: 10rem;
+    display: inline-block;
+}
+.footer{
+    margin-top: 5rem;
+    text-align: center;
+    padding: 1px;
+    background-color: rgb(195, 179, 179);
+}
