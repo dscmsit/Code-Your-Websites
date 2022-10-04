@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Zilla+Slab:ital@0;1&display=swap');
+body{
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(118, 168, 255);
+    color: rgb(0, 0, 0);
+    width: 100vw;
+}
+.intro{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 20vh;
+    left: 10%;
+}
+h1{
+    font-size: 3rem;
+    margin: 10px;
+}
+p{
+    margin: 5px;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.hac{
+    font-style: italic;
+    font-weight: 500;
+}
+a{
+    color: rgb(2, 2, 2);
+    text-decoration: none;
+    text-decoration: underline;
+    margin: 20px;
+    font-size: 2rem;
+}
+footer{
+    height: 5vh;
+}
